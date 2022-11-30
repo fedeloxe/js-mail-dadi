@@ -1,6 +1,7 @@
+//array contenente lista mail 
 const EmailList = ["pippo@topolinia.com", "paperino@topolinia.com" , "topolino@topolinia.com", "minnie@topolinia.com" ]
 
-
+//bottone per fare partire la verifica
 let bottone = document.getElementById("verifica");
 bottone.addEventListener('click', function(){
     
@@ -18,7 +19,7 @@ bottone.addEventListener('click', function(){
             found= true;
         }
     }
-
+    //restituisco i risultati a schermo 
     if (found){
         document.getElementById ('risultato').innerHTML = "la tua mail è presente"
     }
