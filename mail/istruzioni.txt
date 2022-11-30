@@ -1,4 +1,6 @@
-1- creare una lista di mail
-2- chiedere la mail all'utente 
-3- SE la mail è all'interno della lista comunica il risultato positivo 
-   ALTRIMENTI comunica che l'email non è presente 
+1- creare una lista di mail con un array
+2- chiedere la mail all'utente tramite un input 
+3- creare un bottone all'inetrno del quale racchiudo il programma 
+4- Tramite un ciclo for verifico se l'eamil inserita è presente nell'elenco 
+   4.1- SE la mail è all'interno della lista comunica il risultato positivo 
+   4.2- ALTRIMENTI comunica che l'email non è presente 
