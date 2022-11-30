@@ -1,0 +1,4 @@
+1- creare una lista di mail
+2- chiedere la mail all'utente 
+3- SE la mail è all'interno della lista comunica il risultato positivo 
+   ALTRIMENTI comunica che l'email non è presente 
