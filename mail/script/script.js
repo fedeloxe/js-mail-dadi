@@ -21,10 +21,10 @@ bottone.addEventListener('click', function(){
     }
     //restituisco i risultati a schermo 
     if (found){
-        document.getElementById ('risultato').innerHTML = "la tua mail è presente"
+        document.getElementById ('risultato').innerHTML = "la tua mail è presente";
     }
     else{
-        document.getElementById ('risultato').innerHTML = "la tua mail non è presente"
+        document.getElementById ('risultato').innerHTML = "la tua mail non è presente";
     }
 
 }
